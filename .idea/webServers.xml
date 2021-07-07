@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6a96e4e0-5a12-4b4b-a242-77b48c6c8d46" name="server7">
+        <fileTransfer accessType="SFTP" host="nlplab.iptime.org" port="47022" sshConfigId="64d24df2-0230-4b7c-a14b-9d9b63091d62" sshConfig="server7">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="80943f4a-1837-4f3c-ba95-fcc0c350978d" name="server8">
+        <fileTransfer accessType="SFTP" host="nlplab.iptime.org" port="48022" sshConfigId="e012ff0c-b584-45f9-8267-1757828ae13d" sshConfig="server8">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
